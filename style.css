@@ -9,8 +9,8 @@ body{
 }
 
 .container{
-    height: 30%;
-    max-height: 50%;
+    height: 40%;
+    /* max-height: %; */
     background-color: #fff;
     width: 30%;
     min-width: 500px;
@@ -27,7 +27,7 @@ body{
 .timer-display{
     font-size:xx-large  ;
     position: relative;
-    width: 92%;
+    width: 90%;
     background: #fff;
     left: 4%;
     font-family: 'Roboto mano', monospace;
@@ -48,8 +48,8 @@ body{
 }
 
 .buttons button{
-    width: 151px;
-    height: 66px;
+    width: 120px;
+    height: 50px;
     background-color: #8c52ff;
     color: #fff;
     border: none;
